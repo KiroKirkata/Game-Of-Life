@@ -1,0 +1,15 @@
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.csproj.AssemblyReference.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.AssemblyInfoInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.AssemblyInfo.cs
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.csproj.CoreCompileInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\bin\Debug\net6.0\something.exe
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\bin\Debug\net6.0\something.deps.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\bin\Debug\net6.0\something.runtimeconfig.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\bin\Debug\net6.0\something.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\bin\Debug\net6.0\something.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\refint\something.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\something.genruntimeconfig.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\something\something\obj\Debug\net6.0\ref\something.dll

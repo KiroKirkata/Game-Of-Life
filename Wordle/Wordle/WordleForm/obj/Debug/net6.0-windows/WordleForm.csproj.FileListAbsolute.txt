@@ -1,0 +1,17 @@
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\bin\Debug\net6.0-windows\WordleForm.exe
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\bin\Debug\net6.0-windows\WordleForm.deps.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\bin\Debug\net6.0-windows\WordleForm.runtimeconfig.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\bin\Debug\net6.0-windows\WordleForm.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\bin\Debug\net6.0-windows\WordleForm.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.csproj.AssemblyReference.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.csproj.GenerateResource.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.AssemblyInfoInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.AssemblyInfo.cs
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.csproj.CoreCompileInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\refint\WordleForm.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\WordleForm.genruntimeconfig.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\ref\WordleForm.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Wordle\Wordle\WordleForm\WordleForm\obj\Debug\net6.0-windows\Wordle.WordleForm.resources

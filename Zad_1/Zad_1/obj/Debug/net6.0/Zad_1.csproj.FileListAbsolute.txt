@@ -1,0 +1,15 @@
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\bin\Debug\net6.0\Zad_1.exe
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\bin\Debug\net6.0\Zad_1.deps.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\bin\Debug\net6.0\Zad_1.runtimeconfig.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\bin\Debug\net6.0\Zad_1.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\bin\Debug\net6.0\Zad_1.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.csproj.AssemblyReference.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.AssemblyInfoInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.AssemblyInfo.cs
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.csproj.CoreCompileInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\refint\Zad_1.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\Zad_1.genruntimeconfig.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Game-Of-Life\Zad_1\Zad_1\obj\Debug\net6.0\ref\Zad_1.dll
